@@ -359,3 +359,19 @@
     font-weight: bolder;
     border-radius: 5px;
 }
+
+
+.footer {
+    text-align: center;
+
+}
+
+.footer p {
+    color: #747474;
+    font-size: 15px;
+}
+
+.footer p:nth-child(1) {
+    padding-bottom: 30px;
+
+}
